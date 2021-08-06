@@ -85,7 +85,7 @@
       <a href="https://github.com/M4G1Ck">
         <img src="https://avatars.githubusercontent.com/u/79328112?v=4" width="100px;" alt="Avatar Gabriel Macedo Araújo"/><br>
         <sub>
-          <b>Gabriel Macedo Araújoo</b>
+          <b>Gabriel Macedo Araújo</b>
         </sub>
       </a><br>
     </td>

@@ -57,9 +57,6 @@
 
 </br>
 
-
-<details>
-<summary><h2>🥑Contribuidores Atividades em Grupo (Grupo 01-T4)</h2></summary>
 <p align="center">
   <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
 </p><table>
@@ -113,7 +110,6 @@
       </a><br>
     </td>
 </table>
-</details>
 <br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[**Back to top**](#back-to-top)⬆️
